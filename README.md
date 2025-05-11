@@ -16,7 +16,7 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/pelimia/)  
 <!--
 **pelimia/pelimia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
