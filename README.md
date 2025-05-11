@@ -6,15 +6,24 @@
 🎖️ Former Sergeant in the Spanish Army (IT & Comms)  
 🖥️ Background in Sysadmin & Electronics  
 ☁️ Studying Cloud & Cybersecurity (AZ-900 | SC-900)  
-👨‍🎓 Computer Science student @ VIU  
+👨‍🎓 Computer Science student at VIU  
 🛠️ I build tools, solve CTFs & explore ethical hacking  
-🧠 Practicing CTFs on HackMyVM
+🔍 Practicing CTFs on HackMyVM & exploring offensive security
 
 
 ---
 
 ### 🔗 Tech Skills 
 [![My Skills](https://skillicons.dev/icons?i=html,azure,kali,linux,windows,java,arduino,wordpress,flutter&perline=3)](https://skillicons.dev)
+
+---
+
+### 🎯 About Me
+💻 Passionate about tech, systems & cybersecurity  
+⛰️ Trail runner & functional training fan (HYROX)  
+🛠️ Hands-on maker: DIY, electronics & automation fan  
+🏀 Natural leader & former basketball coach  
+💬 I love face-to-face conversations and teamwork
 
 ---
 
