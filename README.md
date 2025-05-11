@@ -5,6 +5,7 @@
 
 🎖️ Former Sergeant in the Spanish Army (IT & Comms)  
 🖥️ Background in Sysadmin & Electronics  
+📜 Certified Professional Scrum Master™ I (PSM I)  
 ☁️ Studying Cloud & Cybersecurity (AZ-900 | SC-900)  
 👨‍🎓 Computer Science student at VIU  
 🛠️ I build tools, solve CTFs & explore ethical hacking  
