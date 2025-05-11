@@ -1,10 +1,22 @@
-## 💼 About Me
+## 👨‍💻 pelimia
 
-- 🎖️ Sergeant (IT & Comms) in the Spanish Army  
-- 🖥️ Sysadmin & Electronics background  
-- ☁️ Learning Cloud & Cybersecurity (AZ-900, SC-900)  
-- 👨‍🎓 CS student @ VIU  
-- 🔧 I build scripts, labs & solve CTFs 
+🎖️ Former Sergeant in the Spanish Army (IT & Comms)  
+🖥️ Background in Sysadmin & Electronics  
+☁️ Studying Cloud & Cybersecurity (AZ-900 | SC-900)  
+👨‍🎓 Computer Science student @ VIU  
+🛠️ I build tools, solve CTFs & explore ethical hacking
+
+---
+
+### 📌 Currently Learning
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff6600?style=flat&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/)  
 <!--
 **pelimia/pelimia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
