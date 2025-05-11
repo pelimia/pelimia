@@ -8,6 +8,8 @@
 ☁️ Studying Cloud & Cybersecurity (AZ-900 | SC-900)  
 👨‍🎓 Computer Science student @ VIU  
 🛠️ I build tools, solve CTFs & explore ethical hacking
+🧠 Practicing CTFs on HackMyVM
+
 
 ---
 
