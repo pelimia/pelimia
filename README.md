@@ -1,4 +1,6 @@
-## 👨‍💻 pelimia
+<p align="center"> 
+  <h1> 👨‍💻 pelimia 👋 </h1>
+</p>
 
 🎖️ Former Sergeant in the Spanish Army (IT & Comms)  
 🖥️ Background in Sysadmin & Electronics  
