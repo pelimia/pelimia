@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1> 👨‍💻 pelimia 👋 </h1>
+  <h1> Hola 👋 soy pelimia! 👋 </h1>
 </div>
 
 
