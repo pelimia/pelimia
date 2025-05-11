@@ -11,13 +11,6 @@
 
 ---
 
-### 📌 Currently Learning
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff6600?style=flat&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/pelimia/)  
 <!--
