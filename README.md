@@ -11,6 +11,17 @@
 
 ---
 
+### 🔗 Tech Skills 
+[![My Skills](https://skillicons.dev/icons?i=html,azure,kali,linux,windows,java,arduino,wordpress,flutter&perline=3)](https://skillicons.dev)
+
+ Active Directory
+ Microsoft Server
+q PowerShell
+ Redes LAN/VLAN
+ Cisco, STP, VTP
+
+---
+
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/pelimia/)  
 <!--
