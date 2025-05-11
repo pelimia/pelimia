@@ -1,6 +1,6 @@
-<p align="center"> 
+<div align="center"> 
   <h1> 👨‍💻 pelimia 👋 </h1>
-</p>
+</div>
 
 
 🎖️ Former Sergeant in the Spanish Army (IT & Comms)  
