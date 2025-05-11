@@ -1,5 +1,10 @@
-## Hi there 👋
+## 💼 About Me
 
+- 🎖️ Sergeant (IT & Comms) in the Spanish Army  
+- 🖥️ Sysadmin & Electronics background  
+- ☁️ Learning Cloud & Cybersecurity (AZ-900, SC-900)  
+- 👨‍🎓 CS student @ VIU  
+- 🔧 I build scripts, labs & solve CTFs 
 <!--
 **pelimia/pelimia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
